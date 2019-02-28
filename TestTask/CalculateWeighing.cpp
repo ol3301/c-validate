@@ -24,9 +24,12 @@ void CalculateWeighing::ReadRows() {
 void CalculateWeighing::Dump() {
 	for (auto data : truck_store) {
 		std::ofstream file(data.first+".txt", std::ofstream::out);
+		int totale_weigh = 0;
 		for (auto truck : data.second) {
 			file << truck.GetData() << std::endl;
+			totale_weigh += atoi(truck.weight.c_str());
 		}
+		file << "всего веса: "+std::to_string(totale_weigh) << std::endl;
 		file.close();
 	}
 

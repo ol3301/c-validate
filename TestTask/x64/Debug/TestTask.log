@@ -1,0 +1,8 @@
+﻿  CalculateWeighing.cpp
+d:\projects\с++\all\testtask\testtask\models.h(62): warning C4129: .: неизвестная escape-последовательность
+  Source.cpp
+d:\projects\с++\all\testtask\testtask\models.h(62): warning C4129: .: неизвестная escape-последовательность
+  Создание кода...
+d:\projects\с++\all\testtask\testtask\calculateweighing.cpp(46): warning C4715: <lambda_0f55e42438c48e0b71b3b2251b2b1022>::operator(): значение возвращается не при всех путях выполнения
+d:\projects\с++\all\testtask\testtask\calculateweighing.cpp(55): warning C4715: <lambda_c43e7722dc0b11b42a7f83bcf1ebaa26>::operator(): значение возвращается не при всех путях выполнения
+  TestTask.vcxproj -> D:\Projects\с++\All\TestTask\x64\Debug\TestTask.exe
