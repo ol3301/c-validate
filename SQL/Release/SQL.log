@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\projects\с++\all\testtask\sql\source.cpp(11): warning C4101: res: неиспользованная локальная переменная
+d:\projects\с++\all\testtask\sql\source.cpp(10): warning C4101: row: неиспользованная локальная переменная
+Source.obj : error LNK2001: неразрешенный внешний символ "_mysql_real_connect@32"
+Source.obj : error LNK2001: неразрешенный внешний символ "_mysql_init@4"
+D:\Projects\с++\All\TestTask\Release\SQL.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

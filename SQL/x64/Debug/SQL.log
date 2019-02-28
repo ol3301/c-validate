@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\projects\с++\all\testtask\sql\source.cpp(11): warning C4101: res: неиспользованная локальная переменная
+d:\projects\с++\all\testtask\sql\source.cpp(10): warning C4101: row: неиспользованная локальная переменная
+  SQL.vcxproj -> D:\Projects\с++\All\TestTask\x64\Debug\SQL.exe

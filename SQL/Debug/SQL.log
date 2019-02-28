@@ -1,0 +1,4 @@
+﻿Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _mysql_init@4 в функции _main
+C:\Program Files\MySQL\Connector C++ 8.0\lib64\vs14\mysqlcppconn.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Program Files\MySQL\MySQL Server 8.0\lib\libmysql.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+D:\Projects\с++\All\TestTask\Debug\SQL.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
